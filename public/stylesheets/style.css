@@ -8,7 +8,7 @@ html {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: #B33951;
 }
 
 main,
@@ -19,7 +19,7 @@ main,
 a,
 .btn-no-style,
 #comment-subtitle {
-    color: #1B3022;
+    color: #B33951;
 }
 
 a:hover,
@@ -55,7 +55,7 @@ button:hover {
 }
 
 .go-back {
-    color: #2c2307;
+    color: #B33951;
 }
 
 textarea,
@@ -198,7 +198,7 @@ main {
 .edit-link {
     display: block;
     margin: -1.5% 0 2% 0;
-    color: #2c2307;
+    color: #B33951;
 }
 
 .comment-form {
@@ -244,7 +244,7 @@ main {
 
 .sign-in-link,
 .login-link {
-    color: #2c2307;
+    color: #B33951;
 }
 
 .form-heading h1,
